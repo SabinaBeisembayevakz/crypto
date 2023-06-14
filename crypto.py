@@ -1,12 +1,8 @@
 import requests
 import json
 import pandas as pd
-from openpyxl.workbook import Workbook
-from binance import Client, ThreadedWebsocketManager, ThreadedDepthCacheManager
-import websocket
 import datetime
 from datetime import timedelta
-import time
 from datetime import datetime
 
 
